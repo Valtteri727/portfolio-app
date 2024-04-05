@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.c3737f9e.css",
-    "main.js": "/react-gh-pages/static/js/main.ca6e5bc3.js",
-    "static/js/453.f4fbaa6d.chunk.js": "/react-gh-pages/static/js/453.f4fbaa6d.chunk.js",
-    "static/media/tokmanni_tiirio_logo.jpg": "/react-gh-pages/static/media/tokmanni_tiirio_logo.53a902b2dbefb344870f.jpg",
-    "static/media/my_picture.jpg": "/react-gh-pages/static/media/my_picture.f20ddafeaab5a9910b51.jpg",
-    "static/media/k_citymarket_logo.jpg": "/react-gh-pages/static/media/k_citymarket_logo.5493dc5d23c6fb8916d9.jpg",
-    "static/media/vihannestukku_oberg_logo.jpg": "/react-gh-pages/static/media/vihannestukku_oberg_logo.a3b362bbdfb7dc6325a8.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.c3737f9e.css.map": "/react-gh-pages/static/css/main.c3737f9e.css.map",
-    "main.ca6e5bc3.js.map": "/react-gh-pages/static/js/main.ca6e5bc3.js.map",
-    "453.f4fbaa6d.chunk.js.map": "/react-gh-pages/static/js/453.f4fbaa6d.chunk.js.map"
+    "main.css": "/portfolio-app/static/css/main.c3737f9e.css",
+    "main.js": "/portfolio-app/static/js/main.322ddf79.js",
+    "static/js/453.f4fbaa6d.chunk.js": "/portfolio-app/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/tokmanni_tiirio_logo.jpg": "/portfolio-app/static/media/tokmanni_tiirio_logo.53a902b2dbefb344870f.jpg",
+    "static/media/my_picture.jpg": "/portfolio-app/static/media/my_picture.f20ddafeaab5a9910b51.jpg",
+    "static/media/k_citymarket_logo.jpg": "/portfolio-app/static/media/k_citymarket_logo.5493dc5d23c6fb8916d9.jpg",
+    "static/media/vihannestukku_oberg_logo.jpg": "/portfolio-app/static/media/vihannestukku_oberg_logo.a3b362bbdfb7dc6325a8.jpg",
+    "index.html": "/portfolio-app/index.html",
+    "main.c3737f9e.css.map": "/portfolio-app/static/css/main.c3737f9e.css.map",
+    "main.322ddf79.js.map": "/portfolio-app/static/js/main.322ddf79.js.map",
+    "453.f4fbaa6d.chunk.js.map": "/portfolio-app/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3737f9e.css",
-    "static/js/main.ca6e5bc3.js"
+    "static/js/main.322ddf79.js"
   ]
 }
